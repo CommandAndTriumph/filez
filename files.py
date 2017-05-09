@@ -30,7 +30,7 @@ class DoTheThing:
 if __name__ == "__main__":
 
 	parser = argparse.ArgumentParser(description="Read a file and do things')
-	parser.add_argument("thefile", help="the file to pass in"
+	parser.add_argument("thefile", help="the file to pass in")
 	
 	thing = DoTheThing(parser.parse_args())
 	
