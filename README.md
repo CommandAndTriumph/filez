@@ -2,6 +2,8 @@
 
 see the file 'files.py' for description
 
+use this file: http://www.textfiles.com/etext/AUTHORS/POE/poe-raven-702.txt
+
 helpful links:
 
 https://docs.python.org/3/library/functions.html?highlight=open#open
